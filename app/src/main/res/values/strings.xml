@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Wallpaper Easy</string>
+
+    <!--Category names for screen-->
+    <string name="category_fashion">Fashion</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_science">Science</string>
+    <string name="category_education">Education</string>
+    <string name="category_feelings">Feelings</string>
+    <string name="category_health">Health</string>
+    <string name="category_people">People</string>
+    <string name="category_religion">Religion</string>
+
+    <!--Category keys for api-->
+    <string name="category_fashion_key">fashion</string>
+    <string name="category_nature_key">nature</string>
+    <string name="category_science_key">science</string>
+    <string name="category_education_key">education</string>
+    <string name="category_feelings_key">feelings</string>
+    <string name="category_health_key">health</string>
+    <string name="category_people_key">people</string>
+    <string name="category_religion_key">religion</string>
+
+    <!--UI-->
+    <string name="error_first_line">Something goes wrong.</string>
+    <string name="error_second_line">Please, check your internet connection</string>
+    <string name="icon_refresh_after_error">Refresh</string>
+    <string name="error_item_first_line">Something goes wrong.</string>
+    <string name="error_item_second_line">Tap to try again</string>
+
+</resources>
